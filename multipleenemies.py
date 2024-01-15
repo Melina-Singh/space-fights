@@ -10,7 +10,7 @@ pygame.init()
 
 # create the screen
 screen = pygame.display.set_mode((800,600)) #800 is weidth and 700 is height
-
+# print(screen)
 # Bg
 background = pygame.image.load("background.jpg")
 
